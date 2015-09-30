@@ -1,0 +1,20 @@
+[20-Aug-2014 11:26:59 America/Denver] PHP Warning:  include(barcode/php-barcode.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/nlsystem/public_html/CDR/barcode/sample/sample-fpdf.php on line 2
+[20-Aug-2014 11:26:59 America/Denver] PHP Warning:  include(barcode/php-barcode.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/nlsystem/public_html/CDR/barcode/sample/sample-fpdf.php on line 2
+[20-Aug-2014 11:26:59 America/Denver] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'barcode/php-barcode.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/nlsystem/public_html/CDR/barcode/sample/sample-fpdf.php on line 2
+[20-Aug-2014 11:26:59 America/Denver] PHP Fatal error:  Class 'eFPDF' not found in /home/nlsystem/public_html/CDR/barcode/sample/sample-fpdf.php on line 20
+[20-Aug-2014 11:28:50 America/Denver] PHP Fatal error:  Class 'eFPDF' not found in /home/nlsystem/public_html/CDR/barcode/sample/sample-fpdf.php on line 20
+[20-Aug-2014 11:30:01 America/Denver] PHP Fatal error:  Class 'PDF' not found in /home/nlsystem/public_html/CDR/barcode/sample/sample-fpdf.php on line 20
+[20-Aug-2014 11:30:54 America/Denver] PHP Fatal error:  Class 'PDF' not found in /home/nlsystem/public_html/CDR/barcode/sample/sample-fpdf.php on line 20
+[20-Aug-2014 11:30:57 America/Denver] PHP Fatal error:  Class 'PDF' not found in /home/nlsystem/public_html/CDR/barcode/sample/sample-fpdf.php on line 20
+[20-Aug-2014 11:31:14 America/Denver] PHP Fatal error:  Class 'PDF' not found in /home/nlsystem/public_html/CDR/barcode/sample/sample-fpdf.php on line 20
+[20-Aug-2014 11:59:24 America/Denver] PHP Fatal error:  Class 'PDF' not found in /home/nlsystem/public_html/CDR/barcode/sample/sample-fpdf.php on line 20
+[20-Aug-2014 12:00:55 America/Denver] PHP Fatal error:  Class 'eFPDF' not found in /home/nlsystem/public_html/CDR/barcode/sample/sample-fpdf.php on line 20
+[20-Aug-2014 12:03:00 America/Denver] PHP Fatal error:  Class 'eFPDF' not found in /home/nlsystem/public_html/CDR/barcode/sample/sample-fpdf.php on line 20
+[20-Aug-2014 12:08:15 America/Denver] PHP Warning:  include(Barcode.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/nlsystem/public_html/CDR/barcode/sample/sample-fpdf.php on line 2
+[20-Aug-2014 12:08:15 America/Denver] PHP Warning:  include(Barcode.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/nlsystem/public_html/CDR/barcode/sample/sample-fpdf.php on line 2
+[20-Aug-2014 12:08:15 America/Denver] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'Barcode.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/nlsystem/public_html/CDR/barcode/sample/sample-fpdf.php on line 2
+[20-Aug-2014 12:08:15 America/Denver] PHP Fatal error:  Class 'Barcode' not found in /home/nlsystem/public_html/CDR/barcode/sample/sample-fpdf.php on line 56
+[20-Aug-2014 12:09:35 America/Denver] PHP Warning:  include(barcode/php-barcode.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/nlsystem/public_html/CDR/barcode/sample/sample-fpdf.php on line 2
+[20-Aug-2014 12:09:35 America/Denver] PHP Warning:  include(barcode/php-barcode.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/nlsystem/public_html/CDR/barcode/sample/sample-fpdf.php on line 2
+[20-Aug-2014 12:09:35 America/Denver] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'barcode/php-barcode.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/nlsystem/public_html/CDR/barcode/sample/sample-fpdf.php on line 2
+[20-Aug-2014 12:09:35 America/Denver] PHP Fatal error:  Class 'Barcode' not found in /home/nlsystem/public_html/CDR/barcode/sample/sample-fpdf.php on line 56

@@ -1,0 +1,79 @@
+@charset "utf-8";
+/* CSS Document */
+
+Html,Body{
+	background-color:#F3F3F3;
+	padding: 0px;
+	margin: 0px;
+	padding-left: 0px;
+	height: 100%;
+	margin:0 auto;
+	font-size:16px;
+}
+
+#principal{
+	width:1000px;
+/*width:100%;*/
+	margin:auto;
+	padding:20px;
+}
+.form label{
+	float:left;
+	width:130px;
+	font-weight: bold;
+}
+#login{
+	position: relative;
+	top:100px;
+	width:350px;
+	text-align:center;
+	margin:0px auto;
+	background:white;
+	border:1px solid gray;
+	overflow:hidden;
+	border-radius:5px;
+	-border-radius:5px;
+	-moz-border-radius:5px;
+	padding:5px;
+}
+#login:hover{
+	background-color:#09F;
+	-webkit-transition: 1s all ease-in-out;
+	-webkit-transform:scale(1.2,1.2);
+	}
+.error{
+	margin-top:2px;
+	font-weight: bold;
+	background:#F5A9A9;
+	padding:5px;
+	-moz-border-radius:5px;
+	border-radius:5px;
+	-border-radius:5px;
+}	
+h1,h2,h3,h4,h5,h6,p{
+	margin:0px;padding:0px;
+}
+ul{
+	list-style-type:none;
+	padding:0px;
+	margin:0px;
+}
+nav ul li{
+	float:left;
+	padding:4px;
+	margin:4px;
+	border-right:1px dashed grey;
+	text-align:center;
+	width: 100px;
+}
+nav ul li a{
+	text-decoration:none;
+	color:blue;
+}
+.input:hover {
+	background: #dfe9ec;
+	color: #414848;
+}
+
+
+	
